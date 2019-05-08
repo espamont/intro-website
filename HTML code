@@ -1,0 +1,36 @@
+<head> 
+<div class = “hero-image”/>
+<div class = “hero-text/>
+<title> ... </title>
+<h6> … </h6>
+<button class = “...” type = “button”>
+</head>
+
+<body>
+<section class = “Main”>
+<h2> … </h2>
+<nav>
+<ul>
+<li> ... </li>
+<li> …  </li>
+<li> …  </li>
+</ul>
+</nav>
+</section>
+
+<section class = container>
+<h3>  … </h3>
+<p> …  </p>
+<a href = “... ”> … </a>
+
+<div class = “image”>
+<img src = “...”/>
+<img src = “...”/>
+</section>
+
+<footer>
+<p> … </p>
+<p> Contact information: <a href “mailto: random@example.com”> random@example.com</a>
+</p>
+</footer>
+
