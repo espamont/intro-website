@@ -1,10 +1,10 @@
-<head> 
+<header> 
 <div class = “hero-image”/>
-<div class = “hero-text/>
+<div class = “hero-text"/>
 <title> ... </title>
 <h6> … </h6>
-<button class = “...” type = “button”>
-</head>
+<button onclick = “myFunction()" >...<</button>
+</header>
 
 <body>
 <section class = “Main”>
@@ -18,7 +18,8 @@
 </nav>
 </section>
 
-<section class = container>
+<section class = "container">
+<div id = "content">
 <h3>  … </h3>
 <p> …  </p>
 <a href = “... ”> … </a>
@@ -26,6 +27,8 @@
 <div class = “image”>
 <img src = “...”/>
 <img src = “...”/>
+</div>
+</div>
 </section>
 
 <footer>
